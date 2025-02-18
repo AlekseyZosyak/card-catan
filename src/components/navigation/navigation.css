@@ -1,0 +1,15 @@
+.navigation {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+.navigation__button {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.green {
+    background-color: rgb(168, 215, 168);
+}
